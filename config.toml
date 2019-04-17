@@ -1,7 +1,7 @@
 baseURL = "http://adamwang.io"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Adam's blogg"
+title = "Adam's blog"
 theme = "KeepIt"
 
 paginate = 12
@@ -41,7 +41,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     since = 2012
-    author = "Fastbyte01"               # Author's name
+    author = "Adam"               # Author's name
     subtitle = "A Hugo theme"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other

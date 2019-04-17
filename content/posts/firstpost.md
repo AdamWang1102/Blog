@@ -7,5 +7,22 @@ images:
 tags:
   - 
 ---
-我是第一篇博客，用来测试。嘿嘿嘿
-修改一下.a
+我是第一篇博客，用来测试。嘿嘿
+
+
+```objc
+CGRect frame = [(UIView *)self frame];
+[(UIView *)self setFrame:CGRectMake(CGRectGetMinX(frame), CGRectGetMinY(frame), CGRectGetWidth(frame), 0.1)];
+[(UIView *)self setClipsToBounds:YES];
+[[(UIView *)self layer]setCornerRadius:20];
+```
+
+> 我是一个引用.
+> 
+> 嘿嘿嘿
+>
+
+- 1
+- 2
+- 3
+-  
