@@ -6,6 +6,10 @@ toc: false
 images:
 tags:
   - Tools
+categories: [
+    "Development",
+    "golang",
+]
 ---
 
 # Hugo笔记

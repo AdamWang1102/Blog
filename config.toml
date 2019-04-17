@@ -125,7 +125,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params.share]
 Twitter = true
-#Facebook = true
+Facebook = true
 #Reddit = true
 Linkedin = true
 #Pinterest = true
